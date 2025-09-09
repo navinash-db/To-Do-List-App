@@ -1,0 +1,1 @@
+A dynamic to-do list app built using HTML, CSS, and JavaScript. Allows users to add tasks with due dates, delete items, and view updates in real time. Demonstrates DOM manipulation and array operations.
